@@ -16,11 +16,6 @@ output_notebook()
 
 
 
-    <div class="bk-root">
-        <a href="https://bokeh.pydata.org" target="_blank" class="bk-logo bk-logo-small bk-logo-notebook"></a>
-        <span id="36fc63bc-23ec-4553-a9d3-babb3b0770e7">Loading BokehJS ...</span>
-    </div>
-
 
 
 
